@@ -1,2 +1,2 @@
 # Byte Size Solidity
-Simpler starter code for web3 apps using Solidity and hardhat. 
+Simpler starter code for web3 apps using Solidity and hardhat. Currently still in progress. 
